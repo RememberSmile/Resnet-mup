@@ -1,11 +1,10 @@
 # Resnet-mup
 
-all code main.ipynb
+all code in mlp_main.ipynb
 
 ## todo 
-* ResNet width
+* Task2
 * Task3
 
 ## done
 * Task1 Post vs Pre
-* Task2 Impact of T
